@@ -1,0 +1,3 @@
+# Project 2
+
+This project is something I want to work on in the future to help benefit myself and my father. I currently do the payroll and timecards for the hotel properties we oversee and I would like to make that job easier with a script I can make myself in python. I am currently getting my feet wet with the calculator and hope to figure out how to properly create the most efficient way to do payroll. I currently have made a different set up than what I previously done in Project 1. I feel this interface is easier for someone like my father to understand and execute. The output of the hourly wage is cleaner but I still need to work on how to incorporate taxes into this wage calculator.
